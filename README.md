@@ -6,10 +6,11 @@ Verizon sells phones on a contract basis, and customer defaults result in financ
 ### Model Selection
 We evaluated Logistic Regression, Random Forest, and XGBoost based on accuracy, precision, default rate, and financial impact.
 
-Model	Accuracy	Precision	Default Rate	Profit (Per 1M Customers)
-Logistic Regression	90.8%	64.4%	6.77%	$151.3M
-Random Forest	91.6%	66.2%	5.58%	$162.1M
-XGBoost	91.4%	66.6%	5.98%	$158.7M
+Model	                  Accuracy	    Precision	    Default Rate	    Profit (Per 1M Customers)
+Logistic Regression	     90.8%	        64.4%	        6.77%	             $151.3M
+Random Forest	           91.6%	        66.2%	        5.58%	             $162.1M
+XGBoost	                 91.4%	        66.6%	        5.98%	             $158.7M
+
 Random Forest yields the highest profitability by reducing default losses.
 
 ### Business Impact
