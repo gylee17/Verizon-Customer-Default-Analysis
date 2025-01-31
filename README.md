@@ -5,7 +5,9 @@ Verizon sells phones on a contract basis, and customer defaults result in financ
 
 ### Model Selection
 We evaluated three models—Logistic Regression, Random Forest, and XGBoost—based on key performance metrics, including accuracy, precision, default rate, and financial impact. 
+
 Among them, Random Forest demonstrated the best performance, achieving an accuracy of 91.6% and a precision of 66.2%, while minimizing the default rate to 5.58%. 
+
 This resulted in the highest profitability, generating an estimated $162.1M in profit per million customers by effectively reducing losses from customer defaults.
 
 ### Business Impact
